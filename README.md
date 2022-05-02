@@ -5,7 +5,7 @@
 
 ## Fix Compilation Error
 
-Please fix the error in [src/main/java/com/bytelegend/CleanCat.java](https://github.com/ByteLegendQuest/java-correct-final/blob/main/src/main/java/com/bytelegend/CleanCat.java) so that the compilation passes.
+Please fix the error in [src/main/java/com/bytelegend/Base.java](https://github.com/ByteLegendQuest/java-correct-final/blob/main/src/main/java/com/bytelegend/Base.java) so that the compilation passes.
 
 - You can accomplish this challenge via any way below:
   - Recommended for beginners: run `git clone https://github.com/ByteLegendQuest/java-correct-final` to download the code,
@@ -25,7 +25,7 @@ If you need any help, feel free to join the [Discord Community](https://discord.
 **Note: we only allow you to modify the following files.
 Any changes to files other than the following files will be rejected:**
 
-- `src/main/java/com/bytelegend/CleanCat.java`
+- `src/main/java/com/bytelegend/Base.java`
 
 </details>
 
@@ -34,7 +34,7 @@ Any changes to files other than the following files will be rejected:**
 
 ## 修复编译错误
 
-请修复[src/main/java/com/bytelegend/CleanCat.java](https://github.com/ByteLegendQuest/java-correct-final/blob/main/src/main/java/com/bytelegend/CleanCat.java)中的错误，使得编译通过。
+请修复[src/main/java/com/bytelegend/Base.java](https://github.com/ByteLegendQuest/java-correct-final/blob/main/src/main/java/com/bytelegend/Base.java)中的错误，使得编译通过。
 
 - 你可以使用以下任意一种方法完成挑战：
   - 初学者推荐：运行`git clone https://git.bytelegend.com/ByteLegendQuest/java-correct-final`将代码下载到本地，在本地使用IDE调试完成后复制到网页编辑器里提交。
@@ -52,7 +52,7 @@ Any changes to files other than the following files will be rejected:**
 
 **注意：我们只允许您修改以下文件，任何对其他文件的修改都会被拒绝：**
 
-- `src/main/java/com/bytelegend/CleanCat.java`
+- `src/main/java/com/bytelegend/Base.java`
 
 </details>
 
@@ -62,7 +62,7 @@ Any changes to files other than the following files will be rejected:**
 修復編譯錯誤
 ------
 
-請修復[src/main/java/com/bytelegend/CleanCat.java](https://github.com/ByteLegendQuest/java-correct-final/blob/main/src/main/java/com/bytelegend/CleanCat.java)中的錯誤，以便編譯通過。
+請修復[src/main/java/com/bytelegend/Base.java](https://github.com/ByteLegendQuest/java-correct-final/blob/main/src/main/java/com/bytelegend/Base.java)中的錯誤，以便編譯通過。
 
 -   您可以通過以下任何方式完成此挑戰：
     -   建議初學者：運行`git clone https://github.com/ByteLegendQuest/java-correct-final`下載代碼，在本地 IDE 中完成挑戰，然後在 Web 編輯器中復制/粘貼/提交答案。
@@ -80,7 +80,7 @@ Any changes to files other than the following files will be rejected:**
 
 **注意：我們只允許您修改以下文件。對以下文件以外的文件的任何更改都將被拒絕：**
 
--   `src/main/java/com/bytelegend/CleanCat.java`
+-   `src/main/java/com/bytelegend/Base.java`
 </details>
 
 <details>
@@ -89,7 +89,7 @@ Any changes to files other than the following files will be rejected:**
 Corregir error de compilación
 -----------------------------
 
-Corrija el error en [src/main/java/com/bytelegend/CleanCat.java](https://github.com/ByteLegendQuest/java-correct-final/blob/main/src/main/java/com/bytelegend/CleanCat.java) para que la compilación pase.
+Corrija el error en [src/main/java/com/bytelegend/Base.java](https://github.com/ByteLegendQuest/java-correct-final/blob/main/src/main/java/com/bytelegend/Base.java) para que la compilación pase.
 
 -   Puede lograr este desafío de cualquier manera a continuación:
     -   Recomendado para principiantes: ejecute `git clone https://github.com/ByteLegendQuest/java-correct-final` para descargar el código, finalice el desafío en su IDE local, luego copie/pegue/envíe la respuesta en el editor web.
@@ -107,7 +107,7 @@ Si necesita ayuda, no dude en unirse a la [comunidad de Discord](https://discord
 
 **Nota: solo le permitimos modificar los siguientes archivos. Cualquier cambio en los archivos que no sean los siguientes archivos será rechazado:**
 
--   `src/main/java/com/bytelegend/CleanCat.java`
+-   `src/main/java/com/bytelegend/Base.java`
 </details>
 
 <details>
@@ -116,14 +116,14 @@ Si necesita ayuda, no dude en unirse a la [comunidad de Discord](https://discord
 إصلاح خطأ الترجمة
 -----------------
 
-يرجى إصلاح الخطأ في [src / main / java / com / bytelegend / CleanCat.java](https://github.com/ByteLegendQuest/java-correct-final/blob/main/src/main/java/com/bytelegend/CleanCat.java) حتى تمر عملية التجميع.
+يرجى إصلاح الخطأ في [src / main / java / com / bytelegend / Base.java](https://github.com/ByteLegendQuest/java-correct-final/blob/main/src/main/java/com/bytelegend/Base.java) حتى تمر عملية التجميع.
 
 -   يمكنك إنجاز هذا التحدي بأي طريقة أدناه:
     -   موصى به للمبتدئين: قم بتشغيل `git clone https://github.com/ByteLegendQuest/java-correct-final` لتنزيل الكود ، وإنهاء التحدي في IDE المحلي الخاص بك ، ثم نسخ / لصق / إرسال الإجابة في محرر الويب.
         -   إذا كنت لا تعرف كيف يمكنك النقر فوق [استيراد مشروع إلى IDEA](https://github.com/ByteLegendQuest/java-correct-final/blob/main/docs/en/clone-and-import.md) / [استيراد مشروع إلى VSCode](https://github.com/ByteLegendQuest/java-correct-final/blob/main/docs/en/clone-and-import-vscode.md) .
         -   قبل إرسال التعليمات البرمجية الخاصة بك ، من الأفضل تشغيل `mvn verify` محليًا لتوفير الوقت. لا أعرف كيف؟ انظر [التحقق محليًا في IDEA](https://github.com/ByteLegendQuest/java-correct-final/blob/main/docs/en/run-mvn-verify-idea.md) / [تحقق محليًا في VSCode](https://github.com/ByteLegendQuest/java-correct-final/blob/main/docs/en/run-mvn-verify-vscode.md) .
     -   غير موصى به على الإطلاق: يمكنك [النقر هنا لتنزيل رمز مضغوط](https://codeload.github.com/ByteLegendQuest/java-correct-final/zip/refs/heads/main) إذا كنت لا تحب عمليات `git` .
-    -   أو: إذا كنت واثقًا بدرجة كافية من كتابة التعليمات البرمجية في محرر الويب مباشرةً ، فابدأ.
+    -   أو: إذا كنت واثقًا بدرجة كافية لكتابة التعليمات البرمجية في محرر الويب مباشرةً ، فابدأ.
     -   أو: إذا كنت معتادًا على GitHub ، فيمكنك تفرع [الريبو](https://github.com/ByteLegendQuest/java-correct-final) وإنهاء التحدي وإنشاء طلب سحب.
 -   سيتحقق الروبوت من العلاقات العامة الخاصة بك ويخبرك إذا أنجزت التحدي.
 -   ارجع إلى [ByteLegend وتابع](https://bytelegend.com) رحلة بطلك.
@@ -134,7 +134,7 @@ Si necesita ayuda, no dude en unirse a la [comunidad de Discord](https://discord
 
 **ملاحظة: نسمح لك فقط بتعديل الملفات التالية. سيتم رفض أي تغييرات يتم إجراؤها على الملفات بخلاف الملفات التالية:**
 
--   `src/main/java/com/bytelegend/CleanCat.java`
+-   `src/main/java/com/bytelegend/Base.java`
 </details>
 
 <details>
@@ -143,15 +143,15 @@ Si necesita ayuda, no dude en unirse a la [comunidad de Discord](https://discord
 Corrigir erro de compilação
 ---------------------------
 
-Corrija o erro em [src/main/java/com/bytelegend/CleanCat.java](https://github.com/ByteLegendQuest/java-correct-final/blob/main/src/main/java/com/bytelegend/CleanCat.java) para que a compilação seja aprovada.
+Corrija o erro em [src/main/java/com/bytelegend/Base.java](https://github.com/ByteLegendQuest/java-correct-final/blob/main/src/main/java/com/bytelegend/Base.java) para que a compilação seja aprovada.
 
 -   Você pode realizar este desafio de qualquer maneira abaixo:
-    -   Recomendado para iniciantes: execute `git clone https://github.com/ByteLegendQuest/java-correct-final` para baixar o código, termine o desafio em seu IDE local e copie/cole/envie a resposta no editor da web.
-        -   Se você não sabe como, você pode clicar em [import project into IDEA](https://github.com/ByteLegendQuest/java-correct-final/blob/main/docs/en/clone-and-import.md) / [import project into VSCode](https://github.com/ByteLegendQuest/java-correct-final/blob/main/docs/en/clone-and-import-vscode.md) .
+    -   Recomendado para iniciantes: execute `git clone https://github.com/ByteLegendQuest/java-correct-final` para baixar o código, conclua o desafio em seu IDE local e copie/cole/envie a resposta no editor da web.
+        -   Se você não sabe como, você pode clicar em [importar projeto para IDEA](https://github.com/ByteLegendQuest/java-correct-final/blob/main/docs/en/clone-and-import.md) / [importar projeto para VSCode](https://github.com/ByteLegendQuest/java-correct-final/blob/main/docs/en/clone-and-import-vscode.md) .
         -   Antes de enviar seu código, é melhor você executar `mvn verify` localmente para economizar tempo. Não sei como? Consulte [verificar localmente em IDEA](https://github.com/ByteLegendQuest/java-correct-final/blob/main/docs/en/run-mvn-verify-idea.md) / [verificar localmente em VSCode](https://github.com/ByteLegendQuest/java-correct-final/blob/main/docs/en/run-mvn-verify-vscode.md) .
     -   Muito não recomendado: você pode [clicar aqui para baixar o código zipado](https://codeload.github.com/ByteLegendQuest/java-correct-final/zip/refs/heads/main) se não gostar das operações do `git` .
     -   Ou: se você estiver confiante o suficiente para escrever código diretamente no editor da web, vá em frente.
-    -   Ou: se você estiver familiarizado com o GitHub, você pode fazer o fork [do repo](https://github.com/ByteLegendQuest/java-correct-final) , finalizar o desafio e criar uma pull request.
+    -   Ou: se você estiver familiarizado com o GitHub, você pode bifurcar [o repo](https://github.com/ByteLegendQuest/java-correct-final) , finalizar o desafio e criar um pull request.
 -   O bot verificará seu PR e informará se você cumprir o desafio.
 -   Volte para [ByteLegend](https://bytelegend.com) e continue sua jornada de herói.
 
@@ -161,7 +161,7 @@ Se precisar de ajuda, sinta-se à vontade para se juntar à [Comunidade Discord]
 
 **Nota: só permitimos que você modifique os seguintes arquivos. Quaisquer alterações em arquivos que não sejam os arquivos a seguir serão rejeitadas:**
 
--   `src/main/java/com/bytelegend/CleanCat.java`
+-   `src/main/java/com/bytelegend/Base.java`
 </details>
 
 <details>
@@ -170,7 +170,7 @@ Se precisar de ajuda, sinta-se à vontade para se juntar à [Comunidade Discord]
 Perbaiki Kesalahan Kompilasi
 ----------------------------
 
-Harap perbaiki kesalahan di [src/main/java/com/bytelegend/CleanCat.java](https://github.com/ByteLegendQuest/java-correct-final/blob/main/src/main/java/com/bytelegend/CleanCat.java) agar kompilasi lolos.
+Harap perbaiki kesalahan di [src/main/java/com/bytelegend/Base.java](https://github.com/ByteLegendQuest/java-correct-final/blob/main/src/main/java/com/bytelegend/Base.java) agar kompilasi lolos.
 
 -   Anda dapat menyelesaikan tantangan ini melalui cara apa pun di bawah ini:
     -   Direkomendasikan untuk pemula: jalankan `git clone https://github.com/ByteLegendQuest/java-correct-final` untuk mengunduh kode, selesaikan tantangan di IDE lokal Anda, lalu salin/tempel/kirim jawabannya di editor web.
@@ -188,7 +188,7 @@ Jika Anda memerlukan bantuan, jangan ragu untuk bergabung dengan [Komunitas Disc
 
 **Catatan: kami hanya mengizinkan Anda untuk mengubah file berikut. Setiap perubahan pada file selain file berikut akan ditolak:**
 
--   `src/main/java/com/bytelegend/CleanCat.java`
+-   `src/main/java/com/bytelegend/Base.java`
 </details>
 
 <details>
@@ -197,7 +197,7 @@ Jika Anda memerlukan bantuan, jangan ragu untuk bergabung dengan [Komunitas Disc
 Corriger l'erreur de compilation
 --------------------------------
 
-Veuillez corriger l'erreur dans [src/main/java/com/bytelegend/CleanCat.java](https://github.com/ByteLegendQuest/java-correct-final/blob/main/src/main/java/com/bytelegend/CleanCat.java) afin que la compilation réussisse.
+Veuillez corriger l'erreur dans [src/main/java/com/bytelegend/Base.java](https://github.com/ByteLegendQuest/java-correct-final/blob/main/src/main/java/com/bytelegend/Base.java) afin que la compilation réussisse.
 
 -   Vous pouvez accomplir ce défi de n'importe quelle manière ci-dessous:
     -   Recommandé pour les débutants : exécutez `git clone https://github.com/ByteLegendQuest/java-correct-final` pour télécharger le code, terminez le défi dans votre IDE local, puis copiez/collez/soumettez la réponse dans l'éditeur Web.
@@ -215,7 +215,7 @@ Si vous avez besoin d'aide, n'hésitez pas à rejoindre la [communauté Discord]
 
 **Remarque : nous vous autorisons uniquement à modifier les fichiers suivants. Toute modification de fichiers autres que les fichiers suivants sera rejetée :**
 
--   `src/main/java/com/bytelegend/CleanCat.java`
+-   `src/main/java/com/bytelegend/Base.java`
 </details>
 
 <details>
@@ -224,7 +224,7 @@ Si vous avez besoin d'aide, n'hésitez pas à rejoindre la [communauté Discord]
 コンパイルエラーを修正
 -----------
 
-[src / main / java / com / bytelegend / CleanCat.java](https://github.com/ByteLegendQuest/java-correct-final/blob/main/src/main/java/com/bytelegend/CleanCat.java)のエラーを修正して、コンパイルに合格するようにしてください。
+[src / main / java / com / bytelegend / Base.java](https://github.com/ByteLegendQuest/java-correct-final/blob/main/src/main/java/com/bytelegend/Base.java)のエラーを修正して、コンパイルに合格するようにしてください。
 
 -   この課題は、以下のいずれかの方法で達成できます。
     -   初心者に推奨： `git clone https://github.com/ByteLegendQuest/java-correct-final`を実行してコードをダウンロードし、ローカルIDEでチャレンジを終了してから、Webエディターで回答をコピー/貼り付け/送信します。
@@ -238,11 +238,11 @@ Si vous avez besoin d'aide, n'hésitez pas à rejoindre la [communauté Discord]
 
 幸運を！
 
-ヘルプが必要な場合は、 [Discordコミュニティ](https://discord.gg/35RreUUGWt)に参加するか、contact [@bytelegend.com](mailto:contact@bytelegend.com)からお問い合わせください。
+ヘルプが必要な場合は、 [Discordコミュニティ](https://discord.gg/35RreUUGWt)に参加するか、contact [@bytelegend.com](mailto:contact@bytelegend.com)までお問い合わせください。
 
 **注：変更できるのは次のファイルのみです。次のファイル以外のファイルへの変更は拒否されます。**
 
--   `src/main/java/com/bytelegend/CleanCat.java`
+-   `src/main/java/com/bytelegend/Base.java`
 </details>
 
 <details>
@@ -251,7 +251,7 @@ Si vous avez besoin d'aide, n'hésitez pas à rejoindre la [communauté Discord]
 Исправить ошибку компиляции
 ---------------------------
 
-Пожалуйста, исправьте ошибку в [src/main/java/com/bytelegend/CleanCat.java](https://github.com/ByteLegendQuest/java-correct-final/blob/main/src/main/java/com/bytelegend/CleanCat.java) , чтобы компиляция прошла успешно.
+Пожалуйста, исправьте ошибку в [src/main/java/com/bytelegend/Base.java](https://github.com/ByteLegendQuest/java-correct-final/blob/main/src/main/java/com/bytelegend/Base.java) , чтобы компиляция прошла успешно.
 
 -   Вы можете выполнить эту задачу любым способом, указанным ниже:
     -   Рекомендуется для начинающих: запустите `git clone https://github.com/ByteLegendQuest/java-correct-final` , чтобы загрузить код, выполните задание в локальной среде IDE, затем скопируйте/вставьте/отправьте ответ в веб-редакторе.
@@ -269,7 +269,7 @@ Si vous avez besoin d'aide, n'hésitez pas à rejoindre la [communauté Discord]
 
 **Примечание: мы разрешаем вам изменять только следующие файлы. Любые изменения в файлах, кроме следующих файлов, будут отклонены:**
 
--   `src/main/java/com/bytelegend/CleanCat.java`
+-   `src/main/java/com/bytelegend/Base.java`
 </details>
 
 <details>
@@ -278,7 +278,7 @@ Si vous avez besoin d'aide, n'hésitez pas à rejoindre la [communauté Discord]
 Kompilierungsfehler behoben
 ---------------------------
 
-Bitte beheben Sie den Fehler in [src/main/java/com/bytelegend/CleanCat.java](https://github.com/ByteLegendQuest/java-correct-final/blob/main/src/main/java/com/bytelegend/CleanCat.java) , damit die Kompilierung erfolgreich ist.
+Bitte beheben Sie den Fehler in [src/main/java/com/bytelegend/Base.java](https://github.com/ByteLegendQuest/java-correct-final/blob/main/src/main/java/com/bytelegend/Base.java) , damit die Kompilierung erfolgreich ist.
 
 -   Sie können diese Herausforderung auf eine der folgenden Arten meistern:
     -   Empfohlen für Anfänger: Führen Sie `git clone https://github.com/ByteLegendQuest/java-correct-final` aus, um den Code herunterzuladen, beenden Sie die Herausforderung in Ihrer lokalen IDE und kopieren/fügen Sie dann die Antwort im Web-Editor ein/übermitteln Sie sie.
@@ -296,7 +296,7 @@ Wenn Sie Hilfe benötigen, können Sie sich gerne der [Discord Community](https:
 
 **Hinweis: Wir erlauben Ihnen nur, die folgenden Dateien zu ändern. Alle Änderungen an anderen Dateien als den folgenden Dateien werden abgelehnt:**
 
--   `src/main/java/com/bytelegend/CleanCat.java`
+-   `src/main/java/com/bytelegend/Base.java`
 </details>
 
 <details>
@@ -305,7 +305,7 @@ Wenn Sie Hilfe benötigen, können Sie sich gerne der [Discord Community](https:
 컴파일 오류 수정
 ---------
 
-컴파일이 통과되도록 [src/main/java/com/bytelegend/CleanCat.java](https://github.com/ByteLegendQuest/java-correct-final/blob/main/src/main/java/com/bytelegend/CleanCat.java) 의 오류를 수정하십시오.
+컴파일이 통과되도록 [src/main/java/com/bytelegend/Base.java](https://github.com/ByteLegendQuest/java-correct-final/blob/main/src/main/java/com/bytelegend/Base.java) 의 오류를 수정하십시오.
 
 -   아래 방법을 통해 이 챌린지를 완료할 수 있습니다.
     -   초보자를 위한 권장 사항: `git clone https://github.com/ByteLegendQuest/java-correct-final` 을 실행하여 코드를 다운로드하고 로컬 IDE에서 챌린지를 완료한 다음 웹 편집기에서 답변을 복사/붙여넣기/제출합니다.
@@ -323,7 +323,7 @@ Wenn Sie Hilfe benötigen, können Sie sich gerne der [Discord Community](https:
 
 **참고: 다음 파일만 수정할 수 있습니다. 다음 파일 이외의 파일에 대한 변경 사항은 거부됩니다.**
 
--   `src/main/java/com/bytelegend/CleanCat.java`
+-   `src/main/java/com/bytelegend/Base.java`
 </details>
 
 <details>
@@ -332,7 +332,7 @@ Wenn Sie Hilfe benötigen, können Sie sich gerne der [Discord Community](https:
 Correggi l'errore di compilazione
 ---------------------------------
 
-Correggi l'errore in [src/main/java/com/bytelegend/CleanCat.java](https://github.com/ByteLegendQuest/java-correct-final/blob/main/src/main/java/com/bytelegend/CleanCat.java) in modo che la compilazione passi.
+Correggi l'errore in [src/main/java/com/bytelegend/Base.java in](https://github.com/ByteLegendQuest/java-correct-final/blob/main/src/main/java/com/bytelegend/Base.java) modo che la compilazione passi.
 
 -   Puoi portare a termine questa sfida in qualsiasi modo di seguito:
     -   Consigliato per i principianti: esegui `git clone https://github.com/ByteLegendQuest/java-correct-final` per scaricare il codice, completa la sfida nel tuo IDE locale, quindi copia/incolla/invia la risposta nell'editor web.
@@ -350,5 +350,5 @@ Se hai bisogno di aiuto, non esitare a unirti alla [community di Discord](https:
 
 **Nota: ti permettiamo solo di modificare i seguenti file. Eventuali modifiche ai file diversi dai seguenti file verranno rifiutate:**
 
--   `src/main/java/com/bytelegend/CleanCat.java`
+-   `src/main/java/com/bytelegend/Base.java`
 </details>
